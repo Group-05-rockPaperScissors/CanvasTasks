@@ -1,4 +1,18 @@
-# Canvas Tasks
+## Rock-Paper-Scissors
+#### Rock-Paper-Scissors is popular for its simplicity, quick gameplay, and the element of chance involved, making it a widely enjoyed pastime around the world.
+<br>
+
+- Team Members:
+    - Esmail Jawabreh 
+    - Rakan Almadani 
+    - Doha Khamaiseh 
+    - Dina Jaradat
+    - Sara Alkhateeb
+
+<br>
+<br>
+
+## Canvas Tasks:
 
 ### Prep Content Table: 
 
