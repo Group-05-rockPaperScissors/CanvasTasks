@@ -1,5 +1,14 @@
 ## Project: Midterm Prep #1
 
+- Esmail Jawabreh 
+- Rakan Almadani 
+- Doha Khamaiseh 
+- Dina Jaradat
+- Sara Alkhateeb
+
+<br>
+<br>
+
 ### Cooperation Plan
 <br>
 
