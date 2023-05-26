@@ -10,7 +10,6 @@
     - Sara Alkhateeb
 
 <br>
-<br>
 
 ## Canvas Tasks:
 
