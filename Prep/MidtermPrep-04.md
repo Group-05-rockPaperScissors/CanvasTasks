@@ -41,7 +41,7 @@
 
 ### Using a Database? Make an Database Schema Diagram
 
-#### We didn't use any DataBase.
+#### We will not use any DataBase.
 
 <br>
 
